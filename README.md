@@ -26,3 +26,22 @@ Tudo foi estruturado para demonstrar:
 | **Git & GitHub** | Versionamento |
 
 ---
+
+## 📌 Funcionalidades
+
+| Função | Descrição |
+|-------|-----------|
+| Cadastro de Clientes | Armazena dados de clientes atendidos pela oficina |
+| Cadastro de Veículos | Associa veículos aos respectivos proprietários |
+| Ordens de Serviço | Registra serviços realizados e informações adicionais |
+| Consultas | Permite visualizar registros já cadastrados |
+| Menu Interativo | Navegação simples e direta pelo console |
+
+---
+
+## 🏁 Como Executar
+
+```bash
+git clone https://github.com/PedroTerra11/Oficina-main
+cd Oficina-main
+node index.js
